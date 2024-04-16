@@ -1,0 +1,7 @@
+Id,Name,Exam,Practical
+,,,
+12435,Sami Ahmad,56.3,74.6
+12440,Moustafa Zein,80,13
+13822,Ahmad Khaled,50.4,5.5
+17453,Zouhair Ahmad,80.3,100
+12441,Anas Mansour,34.4,80.9
